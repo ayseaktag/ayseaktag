@@ -1,4 +1,3 @@
-[![MasterHead](http://www.reddit.com/r/gifs/comments/3ahlf9/reddit_hq_doing_their_thing/)
 <h1 align="center">Hi 👋, I'm Ayşe</h1>
 <h3 align="center">Hello everyone, I'm Missha's (cat) nerd mom, a 22 years old computer engineer and more...</h3>
 
