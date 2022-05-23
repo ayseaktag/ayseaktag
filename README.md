@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayşe</h1>
 <h3 align="center">I'm Missha's (cat) nerd mom, a 22 years old computer engineer and more...</h3>
 
-<img align="right" alt="Coding" width="400" src= "https://external-preview.redd.it/VCNMf2JyTXiZgWJt2OaGMtER4NlksWtmHssHIGWbTuE.gif?format=mp4&s=2efb18182479ef1650b552358555bb1a5b95da75">
+<img align="right" alt="Coding" width="400" src= "https://ezgif.com/optimize/ezgif-5-ccbde62b61.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseaktag&label=Profile%20views&color=0e75b6&style=flat" alt="ayseaktag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/misshasmother" target="blank"><img src="https://img.shields.io/twitter/follow/misshasmother?logo=twitter&style=for-the-badge" alt="misshasmother" /></a> </p>
