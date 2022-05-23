@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayşe</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5004&color=194AF7&center=true&vCenter=true&lines=Hi%2C+I'm+Ayse+)](https://git.io/typing-svg)
 <h3 align="center">I'm Missha's (cat) nerd mom, a 22 years old computer engineer and more...</h3>
 
 <img align="right" alt="Coding" width="200" src= "https://c.tenor.com/yQ6QlIyJf-EAAAAC/cats-computer.gif"> 
