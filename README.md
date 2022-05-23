@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Istecenter**
 
-- 🌱 I’m currently learning **Python,Mobile Security Tools..**
+- 🌱 I’m currently learning **Python,Web and Mobile Security Tools..**
 
 - 📝 I regularly write articles on [https://medium.com/@aayseaktag](https://medium.com/@aayseaktag)
 
-- 💬 Ask me about **Web and Mobile Security**
+- 💬 Ask me about **Web and Mobile Security, Python, and Unity 2D**
 
 - 📫 How to reach me **aayseaktag@gmail.com**
 
