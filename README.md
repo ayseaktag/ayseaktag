@@ -1,8 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Ayşe+Aktağ&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;I+am+Ayşe+Aktağ&center=true&size=25">
   </a>
-<h3 align="center">Hello everyone,I'm Missha's (cat) nerd mom, a 22 years old computer engineer and more...</h3>
+<h3 align="center">I'm Missha's (cat) nerd mom, a 22 years old computer engineer and more...</h3>
   
 <h1 align="center">
   <a href="https://git.io/typing-svg">
