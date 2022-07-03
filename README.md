@@ -5,7 +5,7 @@
 <h3 align="center">I'm Missha's (cat) nerd mom, a 22 years old computer engineer and more...</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseaktag&label=Profile%20views&color=0e75b6&style=flat" alt="ayseaktag" /> </p>
 
-<p align="left"> <a href="https://twitter.com/misshasmother" target="blank"><img src="https://img.shields.io/twitter/follow/misshasmother?logo=twitter&style=for-the-badge" alt="misshasmother" /></a> </p>
+
 
 - 🔭 I’m currently working on **Istecenter**
 
