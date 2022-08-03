@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;I+am+Ayşe+Aktağ&center=true&size=25">
   </a>
-<h3 align="center">I'm Missha's (cat) nerd mom, a 22 years old computer engineer and more...</h3>
+<h3 align="center">I'm Missha's (cat) nerd mom, a 23 years old computer engineer and more...</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseaktag&label=Profile%20views&color=0e75b6&style=flat" alt="ayseaktag" /> </p>
 
 
