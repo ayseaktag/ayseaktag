@@ -9,7 +9,7 @@
 
  # About Me
   
-- 🔭 I’m currently working on **Qinox Tech**
+- 🔭 I’m currently working on **TurkNet**
 
 - 🌱 I’m currently learning **Python,Mobile Security Tools..**
 
