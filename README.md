@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on **TurkNet**
 
-- 🌱 I’m currently learning **Python,Mobile Security Tools..**
+- 🌱 I’m currently learning **Fortinet Firewall, SSL VPN,Python,Mobile Security Tools..**
 
 - 📝 I regularly write articles on [https://medium.com/@aayseaktag](https://medium.com/@aayseaktag)
 
