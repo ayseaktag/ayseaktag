@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;I+am+Ayşe+Aktağ&center=true&size=25">
   </a>
-<h3 align="center">I'm Missha's (cat) nerd mom, a 23 years old computer engineer and more...</h3>
+<h3 align="center">I'm Ayse Aktag</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseaktag&label=Profile%20views&color=0e75b6&style=flat" alt="ayseaktag" /> </p>
 
 ![Adsız tasarım (3)](https://user-images.githubusercontent.com/85439997/182601018-7afac86a-922b-4950-89ca-ffb1ba6ab364.gif)
