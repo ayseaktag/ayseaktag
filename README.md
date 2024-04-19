@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on **TurkNet**
 
-- 🌱 I’m currently learning **Fortinet Firewall, SSL VPN,Python,Mobile Security Tools..**
+- 🌱  I am a passionate Cyber Security Specialist dedicated to fortifying digital defenses through comprehensive web and mobile application penetration testing.
 
 - 📝 I regularly write articles on [https://medium.com/@aayseaktag](https://medium.com/@aayseaktag)
 
