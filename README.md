@@ -7,8 +7,6 @@
 ![Adsız tasarım (3)](https://user-images.githubusercontent.com/85439997/182601018-7afac86a-922b-4950-89ca-ffb1ba6ab364.gif)
 
  # About Me
-  
-- 🔭 I’m currently working on **TurkNet**
 
 - 🌱  I am a passionate Cyber Security Specialist dedicated to fortifying digital defenses through comprehensive web and mobile application penetration testing.
 
